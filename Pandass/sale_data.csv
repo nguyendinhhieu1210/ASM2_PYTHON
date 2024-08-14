@@ -1,0 +1,201 @@
+SaleID,CustomerID,ProductID,SaleDate,Quantity,TotalAmount,PaymentMethod,Discount,SalesRepresentative,ShippingAddress,OrderStatus
+1,67,42,2024-04-21,6,357.69,Credit Card,6.16,Joseph Porter,"992 Paula Ville Suite 362, New Mistyville, MP 25422",Cancelled
+2,36,6,2024-04-04,1,52.75,Credit Card,18.38,Valerie Dorsey,"654 Wolf Stravenue, Andrewside, WV 47536",Cancelled
+3,193,42,2024-04-29,2,200.56,PayPal,14.72,Mrs. Lori Boyle,"80601 Toni Causeway, Floreston, MP 14398",Pending
+4,109,28,2024-01-09,8,424.3,Cash,2.02,Elijah Moore,"684 Patrick Village, Port Vanessafort, DE 16162",Cancelled
+5,54,35,2024-05-03,3,349.34,Credit Card,1.14,Melissa Hines,"63099 Kirsten Alley, Port Barryshire, CO 18618",Pending
+6,84,21,2024-06-12,7,204.88,Debit Card,17.66,Lauren Petersen,"4434 Schneider Lake Apt. 109, North Douglas, AL 88564",Pending
+7,174,40,2024-03-16,2,396.69,Credit Card,13.41,Michelle Mason,"874 Robert Spring Apt. 684, South Jesse, MD 53808",Cancelled
+8,72,7,2024-06-15,1,455.3,Debit Card,5.63,Hayley Browning,"94332 Susan Hollow Suite 396, Brianahaven, GA 56217",Delivered
+9,107,30,2024-04-25,6,140.52,Credit Card,0.61,Jade Zamora MD,"9575 Thomas Streets, Port James, NJ 95943",Delivered
+10,175,31,2024-03-02,6,423.88,Cash,11.11,Jennifer Hancock,"455 Julie Locks, South Michelemouth, PR 69794",Pending
+11,78,17,2024-03-30,3,183.4,Debit Card,17.36,Brandi Hayes,"USNV Bowers, FPO AP 63380",Pending
+12,153,46,2024-04-26,4,53.02,Credit Card,11.24,Katie Miller,"4220 David Meadow Apt. 607, Paynefort, NE 59109",Cancelled
+13,188,6,2024-01-08,8,416.96,Cash,17.8,Jeffrey Mcgee,"05356 Tammy Fields, Parkerland, NY 26311",Cancelled
+14,112,2,2024-04-04,5,366.99,Cash,1.36,Jennifer Taylor,"585 Jessica Cape Apt. 990, Griffinstad, RI 85078",Delivered
+15,122,36,2024-02-25,4,86.52,PayPal,19.54,Erica Snyder,"22456 Anne Unions Suite 140, South Samuel, IL 71187",Cancelled
+16,125,25,2024-04-27,5,391.38,Debit Card,12.36,Beth Roberts,"1401 Tanner Ville, Wilsonview, KY 60491",Cancelled
+17,199,5,2024-06-16,8,101.15,Cash,15.99,Scott Thomas,"124 Kyle Hill, Johnsonstad, PR 82779",Pending
+18,92,39,2024-02-15,9,495.41,Cash,0.2,Ryan Chavez,"076 Harris Locks Suite 053, Castroton, WY 00598",Cancelled
+19,38,14,2024-04-28,4,146.73,PayPal,7.2,Kimberly Perez,"4776 Rachel Cove, Lindahaven, DC 09781",Cancelled
+20,18,17,2024-01-30,7,431.58,Debit Card,2.92,Dana Roberts,"221 Peter Streets Apt. 456, North Davidstad, DE 08134",Pending
+21,93,8,2024-04-23,6,466.91,Credit Card,7.56,Tom Boyd,"984 Ryan Lodge Apt. 009, Port Jenniferport, TX 79662",Delivered
+22,59,48,2024-01-02,1,56.37,Debit Card,17.57,Sherry Brown,"0542 Benjamin Common, Crawfordland, NM 78718",Shipped
+23,124,46,2024-02-03,9,22.06,PayPal,12.79,Jessica Webb,"192 Angela Manors Suite 694, Sarahhaven, MH 56453",Pending
+24,171,39,2024-01-08,5,230.63,Cash,10.21,Samantha Massey,"9481 Bullock Loop Apt. 791, South Ethan, PA 56681",Pending
+25,35,5,2024-02-18,8,296.58,Cash,1.05,William Brown,"63865 Kathryn Creek Apt. 329, Paulaland, CT 03990",Cancelled
+26,195,46,2024-06-03,8,476.57,Cash,5.29,Patricia Stevenson,"12515 White Course Suite 791, Mendezland, CA 67879",Cancelled
+27,100,2,2024-05-02,1,151.82,Debit Card,12.34,Susan Chambers,"26042 Clark Summit, Colonfort, FM 94641",Delivered
+28,91,27,2024-02-29,5,227.65,Credit Card,13.53,Adam Bradley,"1637 Perry Brook, Bondfurt, MT 73367",Shipped
+29,92,5,2024-03-10,7,377.96,Debit Card,15.96,Adam Rogers,"USS Ward, FPO AE 50515",Cancelled
+30,23,42,2024-02-13,6,434.27,Debit Card,16.25,Shari Barrett,"192 Mitchell Harbors Suite 568, Port Stephanie, WY 62859",Cancelled
+31,110,36,2024-04-25,4,174.41,PayPal,6.24,Timothy White,"011 Jessica Loaf, Port Toddland, VT 84034",Cancelled
+32,61,23,2024-03-15,7,332.38,Cash,5.09,Kenneth Barron,"448 Park Brook Apt. 611, East Nancystad, OR 53079",Delivered
+33,102,2,2024-02-15,6,69.54,Debit Card,5.71,Cody Campbell,"9165 Melissa Groves, Phillipfort, IA 94946",Delivered
+34,162,45,2024-04-09,6,122.96,Debit Card,1.02,Mason Hardy,"743 Griffin Burgs, Kimberlyside, DE 09257",Delivered
+35,66,36,2024-02-13,10,104.88,Debit Card,16.42,Alexander Davidson,"4270 Tara Run Suite 863, Andrewhaven, ND 50333",Pending
+36,2,4,2024-03-12,2,476.13,Cash,2.07,Brenda Peterson,"24117 Fitzgerald Lodge, Ryanview, GA 26665",Delivered
+37,21,36,2024-01-12,1,227.36,Debit Card,1.25,Alexandria Wood,"905 Richardson Corners Suite 646, Andrestad, PR 44439",Cancelled
+38,70,14,2024-05-02,7,33.13,Debit Card,3.18,Jo Gibson,"65060 Bryan Shoals Suite 858, North Bryan, DC 34696",Pending
+39,89,5,2024-02-10,2,173.65,Cash,19.8,Rebecca Evans,"847 Melanie Station, Jonathanborough, FM 32835",Shipped
+40,38,28,2024-04-08,2,191.98,Credit Card,5.23,Timothy Pineda,"7070 Johnson Pass Apt. 549, New Jessicaton, MH 64232",Shipped
+41,189,42,2024-03-10,8,239.79,Cash,17.39,Katherine Peterson,"905 Diane Highway, Garciahaven, NY 57697",Shipped
+42,145,45,2024-02-28,7,441.51,PayPal,16.99,Tanya Holloway,"186 Roach Crossing Apt. 948, Port Thomas, DC 64002",Pending
+43,110,25,2024-01-12,10,300.39,Debit Card,4.21,William Williams,"528 Eric Well, East Amber, CA 26101",Cancelled
+44,152,50,2024-06-14,1,34.71,Credit Card,17.81,Bryan Goodman,"956 Villegas Run Suite 017, Alicestad, AL 01246",Cancelled
+45,107,47,2024-01-09,8,277.84,Credit Card,7.67,Brandon Anthony,"370 David Hollow, West Melaniestad, OH 75104",Cancelled
+46,178,5,2024-01-24,6,246.35,Credit Card,19.3,Roy Hughes,"8343 Ray Vista Suite 118, West James, ND 35244",Shipped
+47,148,14,2024-05-26,5,276.18,Cash,1.47,Ariana Smith,"7775 Laura Field, West Bobby, AR 03226",Delivered
+48,168,27,2024-03-27,10,128.55,Credit Card,10.58,Jimmy Page,"0331 Matthew Drive Apt. 989, West Haileyport, NC 51419",Cancelled
+49,105,8,2024-02-28,3,422.06,PayPal,17.34,Tommy Horn MD,"83258 Wood Fork, Taramouth, AR 02742",Shipped
+50,190,16,2024-06-16,7,256.27,Cash,9.95,Amanda Keller,"08773 Tran Spurs, Susanborough, HI 18612",Shipped
+51,4,4,2024-02-03,5,260.9,PayPal,19.6,Ronald Thornton,"462 Sarah Crest Apt. 167, Youngtown, AK 85028",Pending
+52,71,27,2024-05-25,9,416.36,Credit Card,13.68,Veronica Guzman,"Unit 0372 Box 4789, DPO AE 26198",Pending
+53,48,31,2024-06-06,3,46.71,Cash,8.79,Melinda Hardy,"561 Ariel Avenue Apt. 395, Lake Matthewfort, UT 60731",Shipped
+54,184,19,2024-05-09,8,45.03,PayPal,13.55,Jacqueline Kemp,"98139 Williams Forest, New Christophermouth, CO 40618",Cancelled
+55,145,22,2024-03-23,1,324.78,Credit Card,18.05,Deborah Mcguire,"6048 Humphrey Springs Suite 583, New Kimberly, AK 49628",Shipped
+56,53,23,2024-05-29,5,265.62,PayPal,17.26,Mary Hudson,"5539 Nicholas Dam Suite 384, Everetttown, SC 78710",Cancelled
+57,112,19,2024-05-09,2,416.07,Credit Card,10.61,Andrew Patrick,"11212 Christian Cape Apt. 844, Millerside, NV 50272",Delivered
+58,154,18,2024-06-07,8,302.52,PayPal,0.94,Nicole Waters,"1928 Lester Turnpike, Holmesfort, GU 50258",Shipped
+59,168,45,2024-05-25,4,442.76,Debit Card,9.82,Mr. Daniel Haynes MD,"19303 Emily Vista Apt. 842, Brownhaven, WA 87127",Shipped
+60,138,34,2024-01-12,3,417.18,Credit Card,13.43,Jeremy Harrington,"3490 Peter Circle, Scottburgh, NM 88148",Delivered
+61,136,20,2024-01-11,8,177.41,PayPal,0.27,Heather Cole,"5882 Andrew Turnpike Apt. 860, Davismouth, PR 95417",Cancelled
+62,75,35,2024-04-01,3,144.46,PayPal,17.65,Robert Walker,"90647 James Ramp, North Zacharyton, CT 57052",Shipped
+63,30,40,2024-05-10,1,188.74,PayPal,18.28,Jennifer Villarreal,"USCGC Montgomery, FPO AP 97496",Pending
+64,163,18,2024-03-07,6,264.01,Cash,9.39,Gregory Vaughn,"662 Mcmillan Well, Kimberlyborough, MT 67033",Pending
+65,121,2,2024-04-28,10,454.71,Credit Card,0.79,David Lara,"359 Salinas Crescent, Robinsonfort, PA 15798",Delivered
+66,198,40,2024-02-05,3,337.05,PayPal,0.53,Theodore Tucker,"35916 Cynthia Ranch, Rachelton, AS 61604",Delivered
+67,152,48,2024-03-21,9,341.44,Cash,1.19,Richard White,"284 Martinez Stravenue Suite 284, Port Brent, SD 67527",Shipped
+68,117,10,2024-01-12,10,95.83,Debit Card,15.74,Terry Jones,"8074 Brown Valleys, Haynesborough, ID 03428",Pending
+69,153,4,2024-05-13,5,39.69,Debit Card,14.55,Mary Garza,"489 Newton Burgs, Jasonton, NV 18426",Cancelled
+70,193,42,2024-02-09,2,398.29,Cash,12.56,Kimberly Kim,"1376 Ortega Pines, Bradleyfurt, MH 69578",Cancelled
+71,175,17,2024-05-01,2,459.7,Debit Card,10.47,Janet Hayes,"66305 Emily Glens Apt. 933, North Tamaraborough, MP 83883",Delivered
+72,22,40,2024-02-03,6,319.67,Debit Card,12.39,Todd Wilson,"5731 Sanders Rest, Lake Melindastad, IL 75976",Delivered
+73,126,23,2024-03-07,6,45.54,Credit Card,12.61,Nicole Mahoney,"136 Penny Radial Suite 708, Hollyberg, KY 93116",Cancelled
+74,133,21,2024-04-04,2,473.05,Credit Card,4.35,Susan Shepherd,"USNS Vaughan, FPO AA 33745",Delivered
+75,144,24,2024-04-12,7,332.13,Debit Card,10.47,Stephanie Donovan,"691 Robert Springs Apt. 053, Salazarland, SD 90566",Shipped
+76,6,12,2024-01-18,9,475.55,Credit Card,2.63,Crystal Bauer,"28491 Maria Expressway, Wesleyfort, OH 43981",Cancelled
+77,41,4,2024-02-11,3,164.5,Cash,19.48,David Pittman,"049 Gina Spurs, Michaeltown, IA 68971",Shipped
+78,179,29,2024-04-20,6,60.04,Cash,3.95,Cheryl Golden,"USNV Simpson, FPO AE 17963",Shipped
+79,188,14,2024-05-22,2,380.03,Credit Card,11.0,Alexa Henry,"4061 Moore Place Suite 778, Jamesmouth, TN 19192",Shipped
+80,176,43,2024-01-12,7,302.19,Credit Card,19.92,Louis Cantrell,"093 Miranda Fields, Phillipsberg, ID 42266",Pending
+81,146,13,2024-01-26,3,30.41,PayPal,1.25,Peter King,"892 Robinson Cape, Anthonyview, SD 21093",Cancelled
+82,69,36,2024-02-23,9,270.92,Credit Card,9.95,Emma Allen,"04185 Harold Point Apt. 689, Port Christinastad, MO 70680",Shipped
+83,122,38,2024-04-25,4,411.14,Debit Card,1.99,Kimberly Hill,"66902 Jeff Mountain Suite 397, Rubioberg, TX 37622",Delivered
+84,147,19,2024-01-08,10,316.24,Credit Card,13.06,Walter Guzman,"8941 Kyle Island Apt. 094, South Coryton, PW 88696",Delivered
+85,175,30,2024-05-16,3,157.54,Credit Card,3.92,Katherine Barnes,"75142 Williams Key Suite 335, West Jason, ME 58685",Shipped
+86,10,5,2024-06-09,2,313.68,Cash,4.55,Kristin Young,"51296 Austin Heights Suite 400, West Bradley, IN 45811",Cancelled
+87,143,16,2024-01-13,1,303.46,Credit Card,7.27,Natalie Jones,"39992 Nicole Creek, Port Ericstad, AL 49473",Pending
+88,164,12,2024-03-07,8,59.42,Cash,1.21,Amy Crawford,"88307 Jessica Prairie Suite 188, Carmenstad, KS 30998",Cancelled
+89,70,19,2024-05-09,8,276.67,Debit Card,12.64,David Hester,"2355 Kim Station Suite 404, Phillipside, WA 28406",Pending
+90,63,18,2024-03-29,9,362.06,Cash,8.37,Steven Sanders,"52105 Michele Lock Apt. 555, Castrochester, NH 15955",Delivered
+91,155,3,2024-03-28,8,449.44,Credit Card,4.23,Jennifer Hernandez,"1365 Jason Parkway, West Richard, NC 91006",Cancelled
+92,67,47,2024-06-09,2,475.67,Debit Card,9.5,Brian Brewer,"84757 Renee Falls, North Michelle, OH 76253",Shipped
+93,52,38,2024-03-17,6,259.31,Cash,19.97,Dr. Richard Reid,"2359 Hernandez Course, South Kelli, OH 81242",Delivered
+94,196,39,2024-05-04,9,137.43,Cash,4.86,Evelyn Douglas,"2416 Spencer Springs, East Ashley, MH 23972",Delivered
+95,68,26,2024-05-09,10,122.42,Cash,14.91,Juan Madden,"54534 Foley Views, Hernandezburgh, DC 73370",Delivered
+96,141,42,2024-04-03,8,431.02,Cash,2.5,Raymond Luna,"62349 Nguyen Squares, Stevenside, DC 89945",Shipped
+97,76,31,2024-05-24,2,316.99,Debit Card,6.57,Andrew Torres,"506 Bradley Manor Apt. 389, Belindabury, PW 88728",Shipped
+98,45,22,2024-03-20,5,342.0,PayPal,10.86,Maria Byrd,"964 Pineda Forest, Rushmouth, MT 61432",Cancelled
+99,141,44,2024-04-05,2,469.02,Credit Card,9.1,Brandi Livingston,"PSC 8231, Box 2893, APO AE 03697",Pending
+100,156,37,2024-02-06,5,171.41,Debit Card,18.89,Eric Smith,"06852 May Manors Suite 464, New Madison, RI 33484",Delivered
+101,80,35,2024-06-10,2,394.12,Debit Card,0.15,Alan Hampton,"25182 Jared Forge, Jacobborough, OK 42112",Shipped
+102,132,22,2024-02-05,4,428.77,Cash,12.49,George Murphy,"40681 Thompson Inlet, North Kaitlyn, DC 05035",Pending
+103,25,24,2024-05-24,5,335.69,Cash,8.5,Amber Love,"USNV Meyers, FPO AA 08632",Pending
+104,57,14,2024-05-12,7,256.28,Cash,12.36,Jacob Lowe,"66617 Evans Lakes, Lake Jasontown, OH 69097",Delivered
+105,34,30,2024-05-14,4,474.0,Debit Card,6.15,Terrence Noble,"PSC 8554, Box 6192, APO AA 24913",Cancelled
+106,13,5,2024-04-17,7,68.06,Credit Card,7.12,Elizabeth Roth,"156 Bobby Crossing, West Davidhaven, MS 61810",Delivered
+107,89,45,2024-01-31,3,347.04,Debit Card,11.25,Richard Phillips,"747 Lopez Isle Apt. 815, Dylanmouth, ND 03262",Cancelled
+108,112,43,2024-04-05,4,458.21,Debit Card,11.77,Michael Reed,"Unit 1660 Box 4030, DPO AA 18470",Shipped
+109,200,20,2024-05-02,7,338.42,Cash,19.61,Christopher Murray,"14793 Connie Row Apt. 598, Richardsonshire, MN 29911",Delivered
+110,175,1,2024-04-18,4,208.4,Cash,7.77,Bianca Manning,"97425 Karen Flats Suite 495, New Adammouth, MD 75375",Delivered
+111,63,27,2024-06-05,10,246.87,Debit Card,9.38,Austin Myers,"214 Andrews Turnpike Apt. 729, Chadshire, PR 71679",Shipped
+112,21,13,2024-06-03,5,79.01,Debit Card,12.48,Bradley Torres,"5341 Mary Oval Apt. 989, Murphymouth, WY 78319",Cancelled
+113,144,28,2024-01-27,1,116.99,Debit Card,4.57,Jacob Harris,"USNV Lindsey, FPO AA 04437",Shipped
+114,133,4,2024-05-26,3,249.07,Credit Card,2.19,Justin Serrano,"31862 Eric Lights Suite 455, New Mariachester, WY 60059",Delivered
+115,49,28,2024-03-03,10,216.21,Credit Card,16.7,Collin Phillips,"4614 Wendy Rest, Maryport, OH 91002",Pending
+116,55,3,2024-04-21,6,84.14,Cash,2.58,Virginia Davila,"99323 Justin Island, Rogersshire, WI 67494",Pending
+117,97,3,2024-06-07,3,163.17,Cash,12.13,Jessica Mitchell,"840 Hawkins Street, North David, NY 29791",Delivered
+118,12,45,2024-06-11,10,123.67,Debit Card,11.84,Dawn Edwards,"8561 Parks Locks Apt. 585, North Michaelville, KY 10872",Delivered
+119,71,19,2024-01-06,5,460.19,Debit Card,14.82,Dwayne Russo,"02508 Lindsay Keys Apt. 142, North Shawn, NE 21049",Delivered
+120,128,7,2024-05-25,10,487.25,Credit Card,10.62,Mrs. Stephanie Patterson,"0811 Phillip Locks, Ambertown, PW 22918",Cancelled
+121,198,12,2024-03-18,7,396.63,PayPal,6.6,Kari Larson,"97764 Hammond Wall, Williamstad, CO 56359",Pending
+122,19,31,2024-06-12,5,99.16,Credit Card,6.8,Christina Brown DVM,"7247 Shields Ways, Lake Ashleyfort, PA 03364",Pending
+123,30,19,2024-01-09,5,163.15,Debit Card,14.75,Jose Mckenzie,"633 Thomas Rue, Melissashire, MD 33576",Shipped
+124,19,6,2024-01-29,6,451.89,Credit Card,15.46,Brian Rodriguez,"571 Michael Rapids, Burchfurt, WY 00539",Cancelled
+125,159,38,2024-02-23,1,140.52,Debit Card,2.73,Christina Ramirez,"1837 Stephanie Wall Suite 160, South Allisonfurt, NM 24191",Delivered
+126,155,22,2024-05-24,3,131.95,Credit Card,5.9,Yvonne Shepherd,"PSC 6971, Box 1461, APO AA 53823",Delivered
+127,46,32,2024-04-15,9,241.92,PayPal,5.04,Lucas Copeland,"5220 Allen Plains, New Marieport, MP 81804",Shipped
+128,10,31,2024-02-19,10,459.24,PayPal,3.34,Alicia Anderson,"148 Sullivan Ferry Apt. 722, Douglastown, DC 29560",Pending
+129,194,41,2024-04-20,3,98.79,Credit Card,18.2,Alex Wyatt,"2357 Samuel Glen, Stephanieburgh, TN 71215",Pending
+130,2,38,2024-02-23,8,83.92,Cash,1.22,Lauren Soto,"531 Lewis Station, Port Michelle, WY 51528",Cancelled
+131,70,15,2024-06-02,7,492.26,Cash,2.3,Christopher Ware,"83794 Stacy Mountains, West Joannechester, CA 78105",Shipped
+132,165,11,2024-04-07,3,140.81,Credit Card,8.62,Walter Johnson,"6865 Jennifer Meadow, Cristianmouth, MN 38278",Cancelled
+133,18,21,2024-01-23,7,96.09,PayPal,3.28,Christine Park,"98935 Anderson Shore, New Juliestad, KY 94406",Shipped
+134,163,27,2024-03-01,5,88.71,Cash,9.62,Nathan Johnson,"88889 Hoffman Crossroad, North Dorisshire, AS 10147",Shipped
+135,88,22,2024-04-03,6,152.19,PayPal,4.11,Jeffrey Davis,"91215 Smith Field Apt. 550, Holdenfort, VA 01028",Cancelled
+136,78,46,2024-01-02,10,174.51,Cash,0.96,Julie Harris,"9143 Garcia Streets Suite 960, Olsonland, OK 17076",Cancelled
+137,58,3,2024-01-12,4,137.4,Cash,1.06,Mary Mitchell,"1685 Richard Lodge, West Amanda, MI 94528",Cancelled
+138,109,5,2024-04-01,8,297.87,PayPal,6.29,Randy Reyes,"7672 Sanders Burg, Lake Ian, AR 42634",Delivered
+139,99,50,2024-04-18,1,463.32,Cash,4.54,Ryan Turner,"2314 Smith Corner, Lake Kim, NM 89772",Pending
+140,53,30,2024-02-13,3,75.28,PayPal,1.29,Renee Castillo,"6927 Kevin Terrace, Jonathantown, GA 55912",Cancelled
+141,39,32,2024-02-08,9,218.43,PayPal,14.28,Joseph Bailey,"9554 Deanna Drive, Banksmouth, SD 34991",Shipped
+142,4,12,2024-04-27,4,398.12,PayPal,8.56,Gloria Harris,"35238 Eugene Terrace, Allenhaven, OH 56090",Delivered
+143,27,35,2024-05-27,10,138.57,Cash,13.85,Jessica Larson,"929 Dean Stravenue Suite 888, Bairdstad, VA 75285",Cancelled
+144,164,18,2024-05-28,5,321.91,Debit Card,9.29,Javier Johnson,"71350 Amy Highway Apt. 277, North Davidfurt, CA 60528",Cancelled
+145,190,9,2024-01-28,4,184.92,Debit Card,8.67,Alexis Johnston,"45420 Cruz Locks Suite 856, New Jennyfurt, KS 22136",Delivered
+146,51,1,2024-03-06,5,399.92,Credit Card,19.57,Billy Kim,"PSC 1055, Box 2403, APO AP 25483",Pending
+147,18,35,2024-05-13,7,240.98,Credit Card,1.87,Joy Brown,"674 Stark Loop Suite 364, Whitechester, NM 24958",Delivered
+148,174,41,2024-06-12,4,51.36,Credit Card,3.69,Amber Lopez,"774 Clark Bridge, Amystad, NE 85256",Cancelled
+149,27,14,2024-02-16,9,32.6,PayPal,1.72,Chad Phillips,"0877 Wilson Parkways, New Barbaraton, NJ 78153",Cancelled
+150,122,14,2024-02-25,1,449.18,Cash,7.53,Deanna Bailey,"8820 Catherine Courts, Carterfort, OH 44032",Pending
+151,49,10,2024-03-04,1,463.73,Cash,14.99,Brandon Ross,"8087 Richard Parkway Apt. 676, South Elizabeth, DE 11010",Delivered
+152,123,46,2024-02-23,7,400.01,Cash,11.77,Sean Daniel,"91647 Laura Village, Phelpsview, UT 35779",Cancelled
+153,148,34,2024-06-07,6,474.56,Cash,1.47,Bryan Dodson,"2603 Jennifer Forge Suite 472, West Georgetown, WI 52972",Delivered
+154,14,2,2024-01-18,6,491.4,Cash,13.87,Dawn Jones,"9416 Larry Highway Suite 910, Gibsonmouth, VT 14620",Shipped
+155,118,45,2024-05-17,8,446.62,Credit Card,12.18,Ryan Nolan,"407 Jose Squares, Davidport, PA 53173",Pending
+156,60,6,2024-02-15,5,238.34,Credit Card,12.48,Charles Gates,"69403 Smith Track Suite 597, Brendaton, ND 82249",Delivered
+157,3,49,2024-02-08,5,134.25,Cash,14.64,Jamie Morgan,"84017 Vaughn Rest, New Kathleenport, LA 19017",Delivered
+158,52,15,2024-01-20,9,366.06,Cash,12.21,Jose Cook,"360 Danielle Knoll Apt. 651, Turnerfurt, SC 11933",Shipped
+159,121,3,2024-02-25,5,118.92,Cash,4.81,Wendy Jones,"2553 David Drives Apt. 951, North Paulabury, MT 52123",Delivered
+160,192,29,2024-05-01,10,407.29,Debit Card,6.5,Stephen Morgan,"088 Isabella Villages, Stephanieshire, AS 17441",Shipped
+161,36,13,2024-05-20,6,428.82,Debit Card,10.75,Miranda Hughes,"5186 Anderson Oval Suite 016, Lake Ericaville, PW 63404",Cancelled
+162,33,2,2024-04-21,8,218.99,PayPal,14.07,Morgan Elliott,"28787 Brennan Spur Apt. 926, New Matthewside, ND 37852",Pending
+163,124,45,2024-05-19,8,88.81,Cash,17.11,Joshua Galvan,"62429 Boyd Pass Apt. 125, Port Evanfurt, ND 11538",Delivered
+164,38,39,2024-01-21,3,279.68,Credit Card,13.95,Sarah Stephens,"7984 Anderson Burgs, Thompsonville, AL 12072",Shipped
+165,35,18,2024-04-04,10,114.55,Debit Card,7.26,Brandon Vance,"24565 Casey Rapid, Richardshaven, CT 57286",Pending
+166,53,49,2024-05-25,9,188.04,Cash,11.55,Jimmy Clayton,"38704 Rodriguez Groves Suite 782, Amandachester, MI 82621",Cancelled
+167,12,1,2024-01-31,3,396.29,PayPal,3.39,Sarah Hutchinson,"92073 May Mission Apt. 623, Lake Michelle, ME 24969",Cancelled
+168,170,43,2024-06-12,9,385.93,Cash,2.86,Paul Mendez,"96558 Cynthia Mall Suite 123, Stephenston, SC 85905",Shipped
+169,171,4,2024-05-29,1,79.8,Cash,2.32,David Murphy,"95423 Anderson Falls, North Erin, MN 35956",Pending
+170,13,45,2024-02-05,1,357.38,Credit Card,8.34,Karen Cole,"325 Paul Plaza, Martinberg, NY 81520",Shipped
+171,21,8,2024-01-18,9,348.93,Debit Card,2.85,Shannon Woodard,"USNS Morrow, FPO AE 66661",Delivered
+172,83,5,2024-01-24,4,65.82,Debit Card,11.86,Craig Richardson,"PSC 3354, Box 5634, APO AP 97176",Cancelled
+173,1,43,2024-04-21,2,80.97,Cash,5.0,Amanda Johnston,"28558 Joshua Plains Suite 682, New Valerie, MS 19151",Shipped
+174,176,2,2024-06-05,2,313.03,Cash,6.99,Jacob Barrera,"638 Andre Creek, Port Timothyburgh, SC 54434",Delivered
+175,167,45,2024-03-14,6,144.77,Credit Card,9.62,Brenda Kelley,"Unit 7714 Box 3986, DPO AA 86382",Delivered
+176,132,32,2024-01-30,5,22.47,PayPal,15.92,Jason Rodriguez,"76953 Stephanie Burgs Suite 220, Johnburgh, MH 69139",Pending
+177,50,15,2024-04-08,3,137.59,Credit Card,11.78,Thomas Clark,"663 David Shoal Apt. 630, Port Roberta, PW 93096",Cancelled
+178,135,29,2024-01-04,3,412.22,Debit Card,15.72,Jacqueline Roman,"82610 Teresa Road, West Micheleberg, AR 32169",Delivered
+179,5,36,2024-05-31,3,28.71,PayPal,14.58,Jessica Gardner,"63128 Larry Lock Suite 561, Port Valerie, FL 29477",Pending
+180,31,41,2024-01-18,9,41.24,PayPal,0.97,James Thompson,"PSC 7734, Box 2213, APO AE 25368",Pending
+181,186,21,2024-01-02,7,27.17,PayPal,0.42,Laurie Riley,"32711 Lisa Gateway, Smithberg, KS 44623",Pending
+182,145,17,2024-01-17,5,164.47,Credit Card,4.04,Kelli Coleman,"65995 Laura Rapids, Mooreview, MA 44561",Pending
+183,91,5,2024-02-27,7,244.7,Credit Card,16.75,Hayley Crane,"972 Samantha Islands Apt. 397, East Kathleen, GA 00620",Shipped
+184,112,15,2024-01-07,1,411.72,PayPal,4.38,Holly Smith,"6332 Savannah Corners, West Desiree, HI 30934",Shipped
+185,70,35,2024-03-07,5,217.01,Cash,11.53,Karina Gomez,"1270 Jesse Trail, South Alyssa, MP 84568",Cancelled
+186,174,11,2024-01-03,4,338.3,Cash,5.91,Audrey Vincent,"8514 Buchanan Cliffs Suite 249, North Brandon, NY 30019",Delivered
+187,56,50,2024-03-27,6,286.93,PayPal,10.44,Brianna Brown,"71491 Baker Mountains Suite 773, Jeremyburgh, TX 85165",Shipped
+188,48,23,2024-04-29,8,134.18,Debit Card,5.23,Mark Allen,"04868 Juan Fall Apt. 472, Lake Alexandriabury, MA 39375",Pending
+189,180,49,2024-04-22,7,433.74,Credit Card,13.38,Craig Flores,"Unit 7638 Box 4090, DPO AE 92978",Shipped
+190,171,37,2024-02-15,2,417.49,Debit Card,13.84,Margaret Stevens,"9895 Karen Brook Suite 135, Wilkersontown, GA 12416",Pending
+191,17,18,2024-01-11,3,479.34,Debit Card,11.78,Lisa Nguyen,"097 Rodney Lodge Apt. 639, South Lauren, AR 66302",Shipped
+192,61,37,2024-01-19,8,61.78,Debit Card,8.95,Jessica Whitehead,"46084 Sawyer Drive Suite 468, Blakehaven, HI 46572",Pending
+193,167,10,2024-01-17,5,248.1,Credit Card,15.08,Joseph Taylor,"0617 Sarah Mews Suite 578, Copelandmouth, IL 01114",Delivered
+194,130,4,2024-01-13,9,353.35,Cash,16.53,Mary Walker,"577 Morgan Groves Apt. 423, Merrittberg, NV 13297",Pending
+195,68,44,2024-03-07,8,427.38,Cash,4.75,Monica Webster MD,"864 Elizabeth Camp, Lyonsburgh, IA 39387",Cancelled
+196,116,29,2024-04-16,1,87.35,PayPal,9.74,Jennifer Curry,"0792 Lopez Circle, Port Jennamouth, FM 35620",Delivered
+197,97,37,2024-06-06,1,185.15,PayPal,10.53,Howard Nichols,"133 Flores Hollow, Jessicaborough, PA 47171",Delivered
+198,124,28,2024-04-07,8,148.77,Cash,1.72,Tiffany Lara,"USNV Orozco, FPO AE 06434",Pending
+199,16,17,2024-04-19,10,270.85,Cash,5.22,Amber Herring,"83614 Gray River Suite 015, Wangburgh, AR 26989",Pending
+200,88,7,2024-04-02,2,340.9,Cash,6.42,Jessica Jackson,"811 Mary Inlet, Port Ashley, CO 40542",Cancelled
